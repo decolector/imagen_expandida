@@ -53,7 +53,6 @@ El curso esencialmente práctico, en donde los estudiantes aprenden los fundamen
 La fundamentación técnica esta apoyada por lecturas y presentaciones en las que se introducen y discuten los aspectos conceptuales y estéticos del medio digital.
 
 
-
 ##Contenidos
 
 Mododulo 1: La composicion de la imagen digital y su manipulación algorítmica.
@@ -112,15 +111,16 @@ __Semana 13__
     Sonificación síntesis y análisis de muestras sonoras:
 
 __Semana 14__
-    Visión Artificial: Utopías de autonomía y distopías de control.
-    tecnicas y herramientas para captura de movimiento y vision artificial.
+    Visión Artificial: Utopías de autonomía y distopias de control.
+    técnicas y herramientas para captura de movimiento y visión artificial.
 __Semana 15__
     Asesorías proyectos finales
 
 __Semana 16__
-    Entrega final: Proyecto interactivo o participativo usando combinacion de medios ( análogos y/o digitales )
+    Entrega final: Proyecto interactivo o participativo usando combinación de medios ( análogos y/o digitales )
 
 ## Evaluación
+
 En todas las asignaturas del Departamento de Artes Visuales la
 asistencia es obligatoria debido a:  la importancia del seguimiento al
 proceso formativo de cada estudiante, la participación en las
@@ -144,9 +144,9 @@ notificación de esta situación.
 
 El principal elemento de evaluación son los ejercicios asignados en el curso.  Cada módulo cuenta con un numero determinado de ejercicios, que sumados dan la nota total de ese módulo.  Estas notas a su vez se suman al final del curso para sacar la nota definitiva.
 
-Módulo 1 (2 ejercicios): 30%
-Módulo 2 (2 ejercicios): 30%
-Módulo 3 ( proyecto final ): 40%
+* Módulo 1 (2 ejercicios): 30%
+* Módulo 2 (2 ejercicios): 30%
+* Módulo 3 ( proyecto final ): 40%
 
 Para la gestión de las notas se utilizará la plataforma gradebook.
 
@@ -156,7 +156,7 @@ Para la gestión de las notas se utilizará la plataforma gradebook.
     * Reas, Casey. {Software} Sctructures. http://artport.whitney.org/commissions/softwarestructures/text.html (accedido Junio 24 2014 )
     * Latour, Bruno: Visualizacion y cognicion: pensando con los ojos y con las manos in La Balsa de la Medusa, Ano: 1998, Número: 45-46, páginas 77-128.
     * ASCOTT, ROY. BEHAVIOURIST ART AND THE CYBERNETIC VISION in TELEMATIC EMBRACE : VISIONARY THEORIES OF ART, TECHNOLOGY, AND CONSCIOUSNESS. Eduard A Shanken, ed.  California University Press, 2003.
-    * Agamben, Giorgio. Que es un dispositivo ?. en Sociológica, año 26, número 73, pp. 249-264 mayo-agosto de 2011. Ciudad de Mexico
+    * Agamben, Giorgio. Que es un dispositivo ?. en Sociológica, año 26, número 73, pp. 249-264 mayo-agosto de 2011. Ciudad de Mexico http://www.revistasociologica.com.mx/pdf/7310.pdf
     * Ryszard W. Kluszczynski, Strategies of interactive art, Journal of AESTHETICS & CULTURE Vol. 2, 2010
 
 
