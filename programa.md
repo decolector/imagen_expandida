@@ -58,65 +58,83 @@ La fundamentación técnica esta apoyada por lecturas y presentaciones en las qu
 Mododulo 1: La composicion de la imagen digital y su manipulación algorítmica.
 
 __Semana 1__
+
     Presentación del programa. Introducción a los conceptos básicos sobre imagen digital y algoritmo.
 
 __Semana 2__
+
     Discusión lectura 1: Casey Reas, Software Structures.
     Programación: Datos y procesos
 
 __Semana 3__
+
     Entrega Ejercicio 1: Composición manual a partir de instrucciones escritas.
     Programación: Objetos
 
 __Semana 4__
+
     Programación: tiempo e Interactividad
 
 __Semana 5__
+
     Entrega Ejercicio 02: Composicion bidimensional en processing a partir de instrucciones en lenguaje natural.
+
 
 __MODULO 2: NETWORKING__
 
 __Semana 6__
+
     Sesión Teórica: Breve historia de la red.
-    Nociones básicas redes telemáticas: protocolos y arquitecturas
-    
+    Nociones básicas redes telemáticas: protocolos y arquitecturas    
+
 __Semana 7__
-    Discusión lectura 2: 
+
+    Discusión lectura 2
     Markup, texto estructurado y DOM ( Document Object Model )
 
 __Semana 8__
+
     Manipulación de documentos con JavaScript
-    Entrega ejercicio 3: Generador automatico de texto - imagen
+    Entrega ejercicio 3: Generador automático de texto - imagen
 
 __Semana 9__
     
     Peticiones, API's y otras interacciones con servicios web
 
 __Semana 10__
+
     Correcciones y asesoría del ejercicio.
     Entrega Ejercicio 4: Mashup a partir de información capturada de servicios web.
 
-Modulo 3: Interacción, participación y delegación.
+__Modulo 3: Interacción, participación y delegación.__
 
 __Semana 11__
+
     Sesión teórica: Dispositivo, interacción/participación e interfaz
     Uso de texto y datos externos.
 
 __Semana 12__
+
     Lectura 3: Latour: Visualización y cognición
     Sesión Teórica: Datos como material de experimentación artística.
     Visualización de datos.
 
 __Semana 13__
+
     Sonificación síntesis y análisis de muestras sonoras:
 
 __Semana 14__
+
     Visión Artificial: Utopías de autonomía y distopias de control.
     técnicas y herramientas para captura de movimiento y visión artificial.
+
 __Semana 15__
+
     Asesorías proyectos finales
 
+
 __Semana 16__
+
     Entrega final: Proyecto interactivo o participativo usando combinación de medios ( análogos y/o digitales )
 
 ## Evaluación
