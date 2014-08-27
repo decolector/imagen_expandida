@@ -1,3 +1,9 @@
+/*
+Este sencillo ejemplo muestra como cargar sonido en processing
+Para usar sus propios sonidos solo hay que agregar los sonidos en 
+.mp3 o .wav a la carpeta data y cargarlos con minim.loadSample("archivo.mp3")
+*/
+
 import ddf.minim.*;
 
 Minim minim;
