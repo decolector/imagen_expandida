@@ -41,7 +41,6 @@ void draw()
   text("Haga click en el aquí o presione 'k' para escuchar un sonido", 20, height/2);
 }
 
-
 //cada vez que clikeamos
 void mouseClicked() 
 {

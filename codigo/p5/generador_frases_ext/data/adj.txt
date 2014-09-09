@@ -1,0 +1,5 @@
+rápido
+perezoso
+lento
+grande
+pequeño
