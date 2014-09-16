@@ -1,0 +1,20 @@
+@font-face{
+	font-family:'open-sans-reg';
+	src: url("open-sans/OpenSans-Regular.ttf");
+}
+
+@font-face{
+	font-family:'open-sans-bld';
+	src: url("open-sans/OpenSans-Bold.ttf");
+}
+
+
+header{
+	font-family: open-sans-bld;
+	font-size: 48px;
+}
+
+article{
+	font-family: open-sans-reg;
+	font-size: 12px;
+}
